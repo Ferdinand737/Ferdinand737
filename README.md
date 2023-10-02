@@ -2,8 +2,8 @@
 
 <h3 align="center">Computer Science student at UBCO</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferdinand737&show_icons=true&locale=en" alt="Ferdinand737" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferdinand737&show_icons=true&locale=en&layout=compact" alt="Ferdinand737" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferdinand737&show_icons=true&locale=en&count_private=true" alt="Ferdinand737" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferdinand737&show_icons=true&locale=en&layout=compact&count_private=true" alt="Ferdinand737" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ferdinand737&" alt="Ferdinand737" /></p>
 
