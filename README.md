@@ -7,7 +7,7 @@
 
   <img src="https://github-readme-stats-ferdinands-projects.vercel.app/api?username=Ferdinand737&show_icons=true&locale=en&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10&cache_seconds=7200" alt="Ferdinand737" style="width: 58%; margin-right: 2%;" />
 
-  <img src="https://github-readme-stats-ferdinands-projects.vercel.app/api/top-langs?username=Ferdinand737&show_icons=true&locale=en&layout=donut&count_private=true&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10&cache_seconds=7200" alt="Ferdinand737" style="width: 38%; margin-left: 2%;" />
+  <img src="https://github-readme-stats-ferdinands-projects.vercel.app/api/top-langs?username=Ferdinand737&show_icons=true&locale=en&layout=donut&count_private=true&exclude_repo=Epic-News-Project,COSC310-Individual-Project&langs_count=10&size_weight=0.5&count_weight=0.5&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10&cache_seconds=7200" alt="Ferdinand737" style="width: 38%; margin-left: 2%;" />
 
 </div>
 
