@@ -2,14 +2,17 @@
 
 <h3 align="center">Computer Science student at UBCO</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ferdinand737&show_icons=true&locale=en&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10" alt="Ferdinand737" /></p>
+<div style="display: flex; justify-content: space-between;">
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ferdinand737&show_icons=true&locale=en&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10" alt="Ferdinand737" />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferdinand737&show_icons=true&locale=en&layout=compact&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10" alt="Ferdinand737" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ferdinand737&show_icons=true&locale=en&layout=compact&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=0f7ef5&border_color=0f7ef5&border_radius=10" alt="Ferdinand737" />
 
+</div>
 
-
-
+<div align="center">
+  
+<!-- Your icons here -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -29,7 +32,16 @@
 <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 <a href="https://jira.atlassian.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/>
-<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/>
+<a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/confluence/confluence-original.svg" alt="confluence" width="40" height="40"/><!-- add more icons similarly -->
+
+</div>
+
+
+
+
+
+
+
 
 
 
