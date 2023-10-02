@@ -1,4 +1,4 @@
-# Hi 👋, I'm [Ferdinand](https://ferdinand737.github.io/profile-page/)
+<h1>Hi 👋, I'm <a href="https://ferdinand737.github.io/profile-page/">Ferdinand</a></h1>
 
 <h3 align="center">Computer Science student at UBCO</h3>
 
