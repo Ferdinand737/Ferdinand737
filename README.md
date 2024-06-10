@@ -1,7 +1,5 @@
 # Hi 👋, I'm <a href="https://ferdinand737.github.io/profile-page/">Ferdinand</a>
 
-<h3 align="center">Computer Science student at UBCO</h3>
-
 
 <div style="display: flex; justify-content: space-between;">
 
